@@ -6,8 +6,8 @@
     .dropup-content {
         position: absolute !important;
         right: 0;
-        top: 40px;
-        z-index: 2;
+        bottom: 40px;
+        z-index: 1000;
         display: none;
         width: 280px;
         background: white;
