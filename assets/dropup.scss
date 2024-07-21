@@ -3,35 +3,35 @@
 .dropup {
     position: relative;
     z-index: 1;
-    .dropup-content {
-        position: absolute !important;
-        right: 0;
-        bottom: 40px;
-        z-index: 1000;
-        display: none;
-        width: 280px;
-        background: white;
-        border-radius: 10px;
-        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.40);
-        .item {
-            font-family: "Poppins", sans-serif;
-            font-size: 17px;
-            color: black;
-            transition: .5s;
-            padding: 11px 14px;
-            text-decoration: none;
-            display: block;
-        }
-        .line-border {
-            height: 100%;
-            height: 1px;
-            display: flex;
-            background-color: rgba(60, 60, 67, 0.29);
-        }
-    }
-    .dropup-active {
+}
+.dropup-content {
+    position: absolute !important;
+    right: 0;
+    bottom: 40px;
+    z-index: 1000;
+    display: none;
+    width: 280px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.40);
+    .item {
+        font-family: "Poppins", sans-serif;
+        font-size: 17px;
+        color: black;
+        transition: .5s;
+        padding: 11px 14px;
+        text-decoration: none;
         display: block;
     }
+    .line-border {
+        height: 100%;
+        height: 1px;
+        display: flex;
+        background-color: rgba(60, 60, 67, 0.29);
+    }
+}
+.dropup-active {
+    display: block;
 }
 
 .dropup-content span:hover {opacity: .8; background: rgba(212, 206, 206, 0.336);}
@@ -40,35 +40,35 @@
 .dropdown {
     position: relative;
     z-index: 1;
-    .dropdown-content {
-        position: absolute !important;
-        right: 0;
-        top: 40px;
-        z-index: 1000;
-        display: none;
-        width: 280px;
-        background: white;
-        border-radius: 10px;
-        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.40);
-        .item {
-            font-family: "Poppins", sans-serif;
-            font-size: 17px;
-            color: black;
-            transition: .5s;
-            padding: 11px 14px;
-            text-decoration: none;
-            display: block;
-        }
-        .line-border {
-            height: 100%;
-            height: 1px;
-            display: flex;
-            background-color: rgba(60, 60, 67, 0.29);
-        }
-    }
-    .dropdown-active {
+}
+.dropdown-content {
+    position: absolute !important;
+    right: 0;
+    top: 40px;
+    z-index: 1000;
+    display: none;
+    width: 280px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.40);
+    .item {
+        font-family: "Poppins", sans-serif;
+        font-size: 17px;
+        color: black;
+        transition: .5s;
+        padding: 11px 14px;
+        text-decoration: none;
         display: block;
     }
+    .line-border {
+        height: 100%;
+        height: 1px;
+        display: flex;
+        background-color: rgba(60, 60, 67, 0.29);
+    }
+}
+.dropdown-active {
+    display: block;
 }
 
 .dropdown-content span:hover {opacity: .8; background: rgba(212, 206, 206, 0.336);}
