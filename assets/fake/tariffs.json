@@ -1,0 +1,58 @@
+[
+    {
+      "id": 6,
+      "name": "5000 RUB, 50 EUR RECURRENT",
+      "display_option": "tariff_display_option_for_all",
+      "display_position": 4,
+      "price": [
+        {
+          "currency": "RUB",
+          "amount": 5000
+        },
+        {
+          "currency": "EUR",
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "6000 RUB, 90 EUR 13 DAYS",
+      "display_option": "tariff_display_option_for_all",
+      "display_position": 2,
+      "price": [
+        {
+          "currency": "RUB",
+          "amount": 6000
+        },
+        {
+          "currency": "EUR",
+          "amount": 90
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "q",
+      "display_position": 1,
+      "display_option": "tariff_display_option_for_all",
+      "price": [
+        {
+          "currency": "RUB",
+          "amount": 432
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "gre",
+      "display_position": 3,
+      "display_option": "tariff_display_option_for_all",
+      "price": [
+        {
+          "currency": "RUB",
+          "amount": 423
+        }
+      ]
+    }
+  ]
