@@ -1,0 +1,138 @@
+[
+    {
+        "wallet_type": "user_individual_balance",
+        "withdraw_allowed": true,
+        "available": [
+            {
+                "currency": "RUB",
+                "amount": "5753.76"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "frozen": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "in_process": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ]
+    },
+    {
+        "wallet_type": "old_individual_balance",
+        "withdraw_allowed": true,
+        "available": [
+            {
+                "currency": "RUB",
+                "amount": "5753.76"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "frozen": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "in_process": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ]
+    },
+    {
+        "wallet_type": "user_individual_balance",
+        "withdraw_allowed": true,
+        "available": [
+            {
+                "currency": "RUB",
+                "amount": "5753.76"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "frozen": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "in_process": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ]
+    },
+    {
+        "wallet_type": "legal_user_balance",
+        "withdraw_allowed": true,
+        "available": [
+            {
+                "currency": "RUB",
+                "amount": "5753.76"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "frozen": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ],
+        "in_process": [
+            {
+                "currency": "RUB",
+                "amount": "0.00"
+            },
+            {
+                "currency": "EUR",
+                "amount": "0.00"
+            }
+        ]
+    }
+]
