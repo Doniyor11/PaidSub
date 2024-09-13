@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bahico&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Doniyor11/PaidSub.git&quot;,
+    &quot;accountId&quot;: &quot;f669563b-122c-4b9d-8c08-885dd6a6bfff&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -48,6 +60,14 @@
       <recent name="C:\Users\ikrom\OneDrive\Desktop\projects\PaidSub" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,6 +86,8 @@
       <workItem from="1722309137393" duration="156000" />
       <workItem from="1724262227012" duration="288000" />
       <workItem from="1725362975553" duration="87000" />
+      <workItem from="1725984919170" duration="236000" />
+      <workItem from="1725989626414" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="for test">
       <option name="closed" value="true" />
@@ -171,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725363017013</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="for test">
+      <option name="closed" value="true" />
+      <created>1725984986967</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725984986967</updated>
+    </task>
+    <task id="LOCAL-00015" summary="for test">
+      <option name="closed" value="true" />
+      <created>1725989677307</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725989677308</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
